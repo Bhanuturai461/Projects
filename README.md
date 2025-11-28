@@ -1,8 +1,9 @@
-#Pizaa Sales Report
+##Pizaa Sales Report
 
 <img width="565" height="320" alt="Pizza_Sales_Report" src="https://github.com/user-attachments/assets/543b7f8d-2bee-417a-8d2f-46f1713529df" />
 
-#Microsoft Fabric–Sales & Returns Analytics Pipeline
+
+##Microsoft Fabric–Sales & Returns Analytics Pipeline
 
 <img width="917" height="395" alt="Sales_Pieline" src="https://github.com/user-attachments/assets/c37047e2-9748-403f-85a5-35c9bae2e9b5" />
 
