@@ -5,9 +5,15 @@
 
 # Microsoft Fabric–Sales & Returns Analytics Pipeline
 
+# Dynamic Pipeline
+
 <img width="917" height="395" alt="Sales_Pieline" src="https://github.com/user-attachments/assets/c37047e2-9748-403f-85a5-35c9bae2e9b5" />
 
+# Semantic Model
+
 <img width="920" height="293" alt="Semantic_Model" src="https://github.com/user-attachments/assets/38ca81ba-22af-497c-a9c1-f71e1be10416" />
+
+# Sales Report
 
 <img width="674" height="379" alt="Sales_Report" src="https://github.com/user-attachments/assets/44ec9a59-61fb-4596-b5ad-2fe0d22a02dd" />
 
